@@ -1,1 +1,1 @@
-# @pfoerdie/css-database
+# @pfoerdie/csv-database
